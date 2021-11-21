@@ -19,7 +19,7 @@ Tarih: 21.11.2021
     - While döngüsü, sonsuz döngüler, while döngüsünün şarta bağlanması
     - Canvasta sonsuz while döngüleriyle animasyonların oluşturulması
     - Canvas sınırlarının animasyon için önemi ve nasıl hesaplama yapılabileceği
-
+    - Vakit kalırsa, ikinci egzersizi denerken farklı sayılarla listeyi test etmelerini sağlamak faydalı olabilir.
 
 ## Lojistik Hatırlatmalar
 - Ödevlere feedback verdiğinizden emin olun, öğrencilerinize geri bildirimlerinizi görüp göremediklerini sorun.

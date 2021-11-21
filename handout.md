@@ -3,7 +3,7 @@ layout: post
 title: Hafta 5 - Grup Çalışması Egzersizleri
 subtitle: Grafik, While loop
 categories: grup çalışması
-authors: [Yağmur Akarken, Cemal Efe]
+authors: [Yağmur Akarken, Cemal Efe Gayir]
 tags: [grup çalışması]
 slug: hafta5-grup
 ---
@@ -63,4 +63,13 @@ Merhabalar, toplam fiyatı öğrenmek için ürünleri ve fiyatları girmeye ba�
 ```
 
 ### Egzersiz 2
+
+![](https://im.haberturk.com/2021/02/28/ver1614497754/2988400_810x458.jpg)
+Hava durumu üzerine çalışan bilim insanları sizden yapmak istedikleri yağmur simülasyonu için yardım istemiştir. Ancak bu simülasyonu yazarken sizden farklı türde yağmurları farklı renklerle ifade etmenizi istemişlerdir. Kodunuzu yazmadan önce de size bir liste içinde yağmur damlalarının sayısını vermişlerdir.
+
+YAGMUR_SAYILARI  = [100, 200, 150, 300]
+
+Bu bilim insanları sizden sırayla verilen sayıda yağmur damlasını yağdırma animasyonunu yapıp, listede verilen bir sonraki damla sayısına geçmenizi istemişlerdir. Her bir yağmur damlası türü için renkler rasgele seçilecek fakat hiçbir zaman tekrar aynı renk kullanılmayacaktır.
+
+Örnek çalışma için dosyaların içinde gönderdiğimiz .gif dosyasına bakabilirsiniz.
 
