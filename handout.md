@@ -20,7 +20,7 @@ slug: hafta5-grup
 ![](https://www.blog.modernraf.com.tr/wp-content/uploads/2020/11/market-raf-duzeni-nasil-olmali.jpeg-1-780x400-1.jpg)
 
  Bir markette barkod okuyucu sistem bozulmuştur. Bu yüzden kasiyerler her ürün için fiyatlara bakıp
-    hesap makinesiyle fiş tutarını hesaplamaktadirlar. Bizden de onlara yardımcı olmak için fiş yazdıran
+    hesap makinesiyle fiş tutarını hesaplamaktadırlar. Biz de onlara yardımcı olmak için fiş yazdıran
     ve toplam tutar hesaplayan bir program yazacağız.
 
  Marketle ilgili bilmemiz gerekenler şunlar:
@@ -35,6 +35,7 @@ slug: hafta5-grup
   Gelen her müşteri için hangi ürünü aldıkları, aldıkları kg cinsinden satılan bir ürün ise kaç kg aldığı,
   paket cinsindense kaç paket aldığını soracağız ve bir ürün için ödemesi gereken fiyati, ürünün adını listelere
   kaydedeceğiz.
+  Eğer ürün adı olarak bitti girilirse program yeni ürünler sormaya devam etmeyecek.
 
   Sonrasında bu listeler üzerinde gezinip fişi bastıracağız.
 
