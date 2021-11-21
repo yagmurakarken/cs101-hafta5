@@ -66,6 +66,7 @@ Merhabalar, toplam fiyatı öğrenmek için ürünleri ve fiyatları girmeye ba�
 ### Egzersiz 2
 
 ![](https://im.haberturk.com/2021/02/28/ver1614497754/2988400_810x458.jpg)
+
 Hava durumu üzerine çalışan bilim insanları sizden yapmak istedikleri yağmur simülasyonu için yardım istemiştir. Ancak bu simülasyonu yazarken sizden farklı türde yağmurları farklı renklerle ifade etmenizi istemişlerdir. Kodunuzu yazmadan önce de size bir liste içinde yağmur damlalarının sayısını vermişlerdir.
 
 YAGMUR_SAYILARI  = [100, 200, 150, 300]

@@ -1,7 +1,13 @@
 """
-Bu egzersizde bir listede verilmiş sayılar kadar arka arkaya farklı renklerde yağan yağmur animasyonları oluşturacağız.
+Hava durumu üzerine çalışan bilim insanları sizden yapmak istedikleri yağmur simülasyonu için yardım istemiştir. Ancak bu simülasyonu yazarken sizden farklı türde yağmurları farklı renklerle ifade etmenizi istemişlerdir. Kodunuzu yazmadan önce de size bir liste içinde yağmur damlalarının sayısını vermişlerdir.
 
-Kodu test ederken YAGMUR_SAYİLARİ değişkenini 5 elemandan fazla içermemek üzere değiştireceğiz.
+YAGMUR_SAYILARI  = [100, 200, 150, 300]
+
+Bu bilim insanları sizden sırayla verilen sayıda yağmur damlasını yağdırma animasyonunu yapıp, listede verilen bir sonraki damla sayısına geçmenizi istemişlerdir. Her bir yağmur damlası türü için renkler rasgele seçilecek fakat hiçbir zaman tekrar aynı renk kullanılmayacaktır.
+
+Örnek çalışma için dosyaların içinde gönderdiğimiz .gif dosyasına bakabilirsiniz.
+
+Kodu test ederken YAGMUR_SAYILARI'na beş elemandan fazla girmemeye dikkat edin.
 """
 from grafik.canvas import Canvas
 import time
