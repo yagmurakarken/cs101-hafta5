@@ -1,22 +1,24 @@
 """
-    Bir markette barkod okuyucu sistem bozulmuştur. Bu yüzden kasiyerler her ürün için fiyatlara bakıp
-    hesap makinesiyle fiş tutarını hesaplamaktadirlar. Bizden de onlara yardımcı olmak için fiş yazdıran
-    ve toplam tutar hesaplayan bir program yazacağız.
+ Bir markette barkod okuyucu sistem bozulmuştur. Bu yüzden kasiyerler her ürün için fiyatlara bakıp
+ hesap makinesiyle fiş tutarını hesaplamaktadırlar. Biz de onlara yardımcı olmak için fiş yazdıran
+ ve toplam tutar hesaplayan bir program yazacağız.
 
-    Marketle ilgili bilmemiz gerekenler şunlar:
-    Markette iki çeşit ürün var: Biri kg olarak satılan ürünler diğeri de paket olarak satılan ürünler.
-    İşimizi kolaylaştırmak için market çalışanları bu ürünleri ve ürünleri fiyatlarını listelediler.
+ Marketle ilgili bilmemiz gerekenler şunlar:
+ Markette iki çeşit ürün var: Biri kg olarak satılan ürünler diğeri de paket olarak satılan ürünler.
+ İşimizi kolaylaştırmak için market çalışanları bu ürünleri ve ürünleri fiyatlarını listelediler.
 
-    kg_urun_listesi=["elma","portakal","muz", "domates","kabak","marul"]
-    kg_urun_fiyat_listesi=[2.25, 4.50, 10.0, 8.75, 8.50, 10.10]
+ kg_urun_listesi=["elma","portakal","muz", "domates","kabak","marul"]
+ kg_urun_fiyat_listesi=[2.25, 4.50, 10.0, 8.75, 8.50, 10.10]
 
-    Buradan da anlaşılacağı gibi; elmanın 1 kg'lık için fiyatı 2.25, portakalın 1 kg'lık fiyatı 4.50...
+ Buradan da anlaşılacağı gibi; elmanın 1 kg'lık için fiyatı 2.25, portakalın 1 kg'lık fiyatı 4.50...
 
-    Gelen her müşteri için hangi ürünü aldıkları, aldıkları kg cinsinden satılan bir ürün ise kaç kg aldığı,
-    paket cinsindense kaç paket aldığını soracağız ve bir ürün için ödemesi gereken fiyati, ürünün adını listelere
-    kaydedeceğiz.
+ Gelen her müşteri için hangi ürünü aldıkları, aldıkları kg cinsinden satılan bir ürün ise kaç kg aldığı,
+ paket cinsindense kaç paket aldığını soracağız ve bir ürün için ödemesi gereken fiyati, ürünün adını listelere
+ kaydedeceğiz.
+ Eğer ürün adı olarak bitti girilirse program yeni ürünler sormaya devam etmeyecek.
 
-    Sonrasında bu listeler üzerinde gezinip fişi bastıracağız.
+ Sonrasında bu listeler üzerinde gezinip fişi bastıracağız.
+
 
     # Örnek Çalışma Şekli
     Merhabalar, toplam fiyatı öğrenmek için ürünleri ve fiyatları girmeye başlayabilirsiniz!
